@@ -1,4 +1,4 @@
-# Song-Matcher
+# The program that almost won me $10,000
 This program almost won me $10,000, read on for more details.
 
 A radio station had a competition running where if they played the same song twice in a day and you called up with the song name, you win $10,000. I set this program up to listen to the radio through a microphone, it then sends you an email if it hears the same song twice. After several days of debugging, I got it working nicely. Sure enough, the station played the same song twice, but becuase I had my phone on silent since I was concentrating at work, I missed the email with the correct song. Some guy called up and won (stole) my money.
